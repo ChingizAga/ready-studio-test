@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024.2 1024.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #212020;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Out_Body">
+      <path id="Out_Body_Right_In" class="cls-1" d="M826.7,206.4h.7v552.1l-.7-.7-1.4-1.4h-107.9v-42.3h-33.6V206.4h143,0ZM833,77.3h-149.3v73.6h150v-73.6h-.7Z"/>
+      <path id="Out_Body_Right_Bot" class="cls-1" d="M1024.1,758.5l-1.4.7-2.9,1.4v80.4h-12.7l-16.9,8.5v50.8l-20.8,12.7h-129.5v-154.4h36l.7.7,3.6,3.6h59.2l2.1-2.1,1.4-1.4.7-.7h80.4v-.2h.1Z"/>
+      <path id="Out_Body_Right" class="cls-1" d="M1024.1,94.2v664.2h-80.4l-4.3,4h-59.1l-4.3-4h-38.1V77.3h182v16.9h4.2Z"/>
+      <path id="Out_Body_Left_In" class="cls-1" d="M682.6,206.4h.7v507.7h-33.6v42.3h-107.9l-1.4,1.4-.7.7V206.4h143,0ZM682.6,77.3h-149.3v73.6h150v-73.6h-.7Z"/>
+      <path id="Out_Body_Left_Bot" class="cls-1" d="M526.9,758.5v154.4h-129.4l-20.8-12.7v-50.8l-16.9-8.5h-12.7v-80.4l-2.9-1.4-.7-.3-.7-.3h80.4l.7.7,1.4,1.4,2.1,2.1h59.2l3.6-3.6.7-.7h36Z"/>
+      <path id="Out_Body_Left" class="cls-1" d="M529,77.3v681.1h-38.1l-4.3,4h-59.1l-4.3-4h-80.4V94.2h4.2v-16.9h182Z"/>
+      <path id="Out_Body_Front" class="cls-1" d="M529,757.7V206.4h10.6v552.1h-10.6v-.7h0ZM837.2,77.3h-3.6v73.6h.7l2.9.4h.7v-73.9h-.7q0-.1,0-.1ZM835.8,151.4h-306.8v55l.7-.6,1.4-1.3,1.8-1,1.8-.7,1.9-.5,2.9-.2h287.7l2.9.2,1.9.5,1.8.7,1.8,1,1.4,1.3.7.6v-55h-2.1.2,0ZM828,206.4h-.7v552.1h10.6V206.4h-9.9,0ZM532.6,151h.7v-73.7h-4.2v74h.7l2.9-.4h0q0,0,0,.1Z"/>
+      <path id="Out_Body_Center_Bot" class="cls-1" d="M376.5,849.5v50.5l-16.8,8.4h-14.4l-2.4-8.2h-2.1l2.1,8.5v38.1H34v-38.1l2.1-8.5h-2.1l-2.3,8.5h-14.7L.1,900.2v-50.8l16.9-8.5h14.7l2.3,8.5h2.1l-2.1-8.5v-80.4h308.9v80.4l-2.1,8.5h2.1l2.4-8.2h14.4l16.8,8.4h0Z"/>
+      <path id="Out_Body_Center" class="cls-1" d="M34,77.3v16.9H.1v664.2h31.7l1.4,1.4.7.7h308.9V77.3H34ZM101.7,193.4h173.5l8.5,42.5h-8.5l-.2-.8-.2-.8-8.1-32.3H110.1l-8.1,32.3-.2.8-.2.8h-8.5l8.5-42.5s0,0,0,0Z"/>
+    </g>
+  </g>
+</svg>
