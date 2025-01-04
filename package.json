@@ -1,13 +1,14 @@
 {
   "name": "ready-studio-test",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "seed": "tsx scripts/seed.ts"
+    "seed": "tsx scripts/seed.ts",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.0",
@@ -66,6 +67,7 @@
     "eslint-config-next": "15.0.4",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-perfectionist": "^2.5.0",
+    "gh-pages": "^6.3.0",
     "leva": "^0.9.35",
     "postcss": "^8",
     "prettier": "^3.2.4",
